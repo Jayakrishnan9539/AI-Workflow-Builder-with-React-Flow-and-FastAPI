@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "checkJs": false,               
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "allowJs": true
+  },
+  "include": ["frontend/src/**/*"],
+  "exclude": ["node_modules"]
+}
